@@ -1,0 +1,11 @@
+.bg {
+    background-color: gray;
+    color: white;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+}
+
+.header {
+    background-color: aquamarine;
+}

@@ -4,6 +4,8 @@ import Product from './component/product/product.compoent'
 import Counter from './component/counter/couter';
 import Greet from './Greet/greet.component';
 import State from './component/ManageState/state';
+import Timer from './component/effect/timer';
+import Form from './component/form/form';
 
 const App = () => {
 
@@ -56,7 +58,8 @@ const App = () => {
         <Product />
         <Counter />
       */}
-
+      <Timer />
+      <Form/>
     </div>
   );
 }

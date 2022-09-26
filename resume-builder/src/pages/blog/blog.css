@@ -1,0 +1,11 @@
+.post {
+    background-color: antiquewhite;
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 7px 0px black;
+}   
+.postHeading{
+    text-transform: capitalize;
+}
